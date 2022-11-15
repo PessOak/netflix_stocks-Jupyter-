@@ -12,3 +12,5 @@ Note: We are using the Dow Jones Industrial Average to compare the Netflix stock
 
 During this project, you will analyze, prepare, and plot data. Your visualizations will help the financial analysts asses the risk of the Netflix stock.
 Financial Data Source: https://finance.yahoo.com/lookup?s=DATA 
+
+Note 2: The CSV files used for the project are all in this repository
