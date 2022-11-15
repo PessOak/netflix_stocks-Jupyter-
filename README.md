@@ -1,4 +1,5 @@
 # netflix_stocks-Jupyter-
+This is a guided project imported from Jupyter Notebooks
 
 In this project, you will act as a data visualization developer at Yahoo Finance! You will be helping the "Netflix Stock Profile" team visualize the Netflix stock data. 
 
